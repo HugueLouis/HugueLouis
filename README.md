@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Louis and I'm and I'm a EPFL 🇨🇭 computer science student, interested in C++ and computer security 🔐
 <!--
 **HugueLouis/HugueLouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
