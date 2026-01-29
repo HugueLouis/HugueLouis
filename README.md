@@ -49,8 +49,10 @@ I'm a **Computer Science student** at **EPFL** (École Polytechnique Fédérale 
 ## 🤝 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HugueLouis)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/HugueLouis)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:louis.hugue@epfl.ch)
+
+<!-- Add your LinkedIn profile here if you have one -->
+<!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) -->
 
 ---
 
